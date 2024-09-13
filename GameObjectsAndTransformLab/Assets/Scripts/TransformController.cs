@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TranformController : MonoBehaviour
+public class TransformController : MonoBehaviour
 {
 
     private void Update()
